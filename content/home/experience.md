@@ -17,28 +17,34 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Engineer"
+  company = "Hi-tech Robotic Systemz Ltd"
+  company_url = "https://www.hitechroboticsystemz.com/"
+  location = "Gurgaon, IN"
+  date_start = "2019-06-01"
   date_end = ""
   description = """
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Worked closely with hardware team for a radar integration with Novus Aware Introduction to Robotics device to add a new Forward Collision Warning feature. Created a GUI tool to Mobile Robotics visualize objects from Radar using CAN protocol, Improved the collision warning to be robust using Bayesian filters.
+  * Hands on experience training and deploying various CNN models (MobileNet, ResNet, SSD, YOLO) and LSTM based models.
+  * Worked on simultaneous detection and segmentation to detect vehicles and segment lanes in a single MobileNet based network.
+  * Developed a early drowsiness prediction LSTM model, optimized using TFlite Advanced Computer Vision and deployed it using Armnn on a low cost arm based harware.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  title = "Research Intern"
+  company = "Wabco (ZF Wabco)"
+  company_url = "https://www.wabco-auto.com/india/home/"
+  location = "Chennai, IN"
+  date_start = "2018-06-01"
+  date_end = "2018-07-30"
+  description = """
+  Responsibilities include:
+  * Worked closely with the Radar team and developed an algorithm to validate the objects from radar and camera.
+  * Worked with ADAS team and improved the speed of the object detection algorithm by 1.2X - 1.5X by tweaking the model parameters.
+  """
 +++

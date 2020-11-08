@@ -65,6 +65,11 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Welcome to my website. :)
+
+My name is Madhu Korada. I currently work at Hi-tech Robotic Systemz as Research Engineer.
+
+I did my bachelors in Mechatronics from SRM University. I was a Research student at motion analysis laboratory, where I have worked mostly on computer vision techniques.
+
+I worked as an intern for Wabco technology centre in summer 2018, where we worked on optimizing the vehicle and pedestrian detection algorithms.
