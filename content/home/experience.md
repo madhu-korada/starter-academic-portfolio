@@ -29,11 +29,11 @@ font_size = "L"
   date_start = "2019-06-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  * Worked closely with hardware team for a radar integration with Novus Aware device to add a new Forward Collision Warning feature. Created a GUI tool to visualize objects from Radar using CAN protocol, Improved the collision warning to be robust using Bayesian filters.
-  * Hands on experience training and deploying various CNN models (MobileNet, ResNet, SSD, YOLO) and LSTM based models.
-  * Worked on simultaneous detection and segmentation to detect vehicles and segment lanes in a single MobileNet based network.
-  * Developed a early drowsiness prediction LSTM model, optimized using TFlite Advanced Computer Vision and deployed it using Armnn on a low cost arm based harware.
+  <!-- Responsibilities include: -->
+  Worked closely with hardware team for a radar integration with Novus Aware device to add a new Forward Collision Warning feature. Created a GUI tool to visualize objects from Radar using CAN protocol, Improved the collision warning to be robust using Bayesian filters.
+  Hands on experience training and deploying various CNN models (MobileNet, ResNet, SSD, YOLO) and LSTM based models.
+  Worked on simultaneous detection and segmentation to detect vehicles and segment lanes in a single MobileNet based network.
+  Developed a early drowsiness prediction LSTM model, optimized using TFlite Advanced Computer Vision and deployed it using Armnn on a low cost arm based harware.
   """
 
 [[experience]]
