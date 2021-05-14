@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   date_end = "2020-02-01"
   description = ""
 
-[[item]]
+<!-- [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Neural Networks and Deep Learning"
@@ -129,6 +129,6 @@ date_format = "Jan 2006"
   certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/MU7VNNPWZ7T8"
   date_start = "2019-10-01"
   date_end = "2020-04-01"
-  description = ""
+  description = "" -->
 
 +++
