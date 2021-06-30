@@ -11,6 +11,7 @@ subtitle = ""
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
+<!-- font_size = "L" -->
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -30,7 +31,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  * Worked closely with hardware team for a radar integration with Novus Aware Introduction to Robotics device to add a new Forward Collision Warning feature. Created a GUI tool to Mobile Robotics visualize objects from Radar using CAN protocol, Improved the collision warning to be robust using Bayesian filters.
+  * Worked closely with hardware team for a radar integration with Novus Aware device to add a new Forward Collision Warning feature. Created a GUI tool to visualize objects from Radar using CAN protocol, Improved the collision warning to be robust using Bayesian filters.
   * Hands on experience training and deploying various CNN models (MobileNet, ResNet, SSD, YOLO) and LSTM based models.
   * Worked on simultaneous detection and segmentation to detect vehicles and segment lanes in a single MobileNet based network.
   * Developed a early drowsiness prediction LSTM model, optimized using TFlite Advanced Computer Vision and deployed it using Armnn on a low cost arm based harware.

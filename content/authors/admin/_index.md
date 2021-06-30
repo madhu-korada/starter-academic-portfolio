@@ -70,6 +70,6 @@ user_groups:
 
 I currently work at [Hi-tech Robotic Systemz](https://www.hitechroboticsystemz.com/) as Research Engineer.
 
-I did my bachelors in Mechatronics from SRM University. I was a Research student at motion analysis laboratory, where I have worked mostly on computer vision techniques.
+I did my bachelors in Mechatronics from SRM University. I was a Research student at motion analysis laboratory, where I have worked mostly on computer vision problems.
 
 I worked as an intern for Wabco technology centre in summer 2018, where we worked on optimizing the vehicle and pedestrian detection algorithms.
