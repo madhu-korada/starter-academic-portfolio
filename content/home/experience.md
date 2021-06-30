@@ -24,6 +24,7 @@ date_format = "Jan 2006"
   title = "Research Engineer"
   company = "Hi-tech Robotic Systemz Ltd"
   company_url = "https://www.hitechroboticsystemz.com/"
+  #company_logo: org-x,
   location = "Gurgaon, IN"
   date_start = "2019-06-01"
   date_end = ""
