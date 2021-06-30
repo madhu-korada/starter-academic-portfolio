@@ -50,85 +50,85 @@ date_format = "Jan 2006"
   date_end = "2020-02-01"
   description = ""
 
-<!-- [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/EQRE32Z7KZY4"
-  date_start = "2019-10-01"
-  date_end = "2020-04-01"
-  description = ""
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Convolutional Neural Networks"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/NM4VX7V4G68C"
-  date_start = "2019-10-01"
-  date_end = "2020-04-01"
-  description = ""
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/X5KZ25BBDGA4"
-  date_start = "2019-10-01"
-  date_end = "2020-04-01"
-  description = ""
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Sequence Models"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/K4GXN67VTKPV"
-  date_start = "2019-10-01"
-  date_end = "2020-04-01"
-  description = ""
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Structuring Machine Learning Projects"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/5HZSLAWLTM3C"
-  date_start = "2019-10-01"
-  date_end = "2020-04-01"
-  description = ""
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/ZZGYSZWQXBXT"
-  date_start = "2019-10-01"
-  date_end = "2020-04-01"
-  description = ""
-
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Natural Language Processing in TensorFlow"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/HLLFH84U8B8K"
-  date_start = "2019-10-01"
-  date_end = "2020-04-01"
-  description = ""
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Sequences, Time Series and Prediction"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/MU7VNNPWZ7T8"
-  date_start = "2019-10-01"
-  date_end = "2020-04-01"
-  description = "" -->
+#<!-- [[item]]
+#  organization = "Coursera"
+#  organization_url = "https://www.coursera.org"
+#  title = "Neural Networks and Deep Learning"
+#  url = ""
+#  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/EQRE32Z7KZY4"
+#  date_start = "2019-10-01"
+#  date_end = "2020-04-01"
+#  description = ""
+#
+#[[item]]
+#  organization = "Coursera"
+#  organization_url = "https://www.coursera.org"
+#  title = "Convolutional Neural Networks"
+#  url = ""
+#  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/NM4VX7V4G68C"
+#  date_start = "2019-10-01"
+#  date_end = "2020-04-01"
+#  description = ""
+#
+#[[item]]
+#  organization = "Coursera"
+#  organization_url = "https://www.coursera.org"
+#  title = "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+#  url = ""
+#  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/X5KZ25BBDGA4"
+#  date_start = "2019-10-01"
+#  date_end = "2020-04-01"
+#  description = ""
+#
+#[[item]]
+#  organization = "Coursera"
+#  organization_url = "https://www.coursera.org"
+#  title = "Sequence Models"
+#  url = ""
+#  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/K4GXN67VTKPV"
+#  date_start = "2019-10-01"
+#  date_end = "2020-04-01"
+#  description = ""
+#
+#[[item]]
+#  organization = "Coursera"
+#  organization_url = "https://www.coursera.org"
+#  title = "Structuring Machine Learning Projects"
+#  url = ""
+#  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/5HZSLAWLTM3C"
+#  date_start = "2019-10-01"
+#  date_end = "2020-04-01"
+#  description = ""
+#
+#[[item]]
+#  organization = "Coursera"
+#  organization_url = "https://www.coursera.org"
+#  title = "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
+#  url = ""
+#  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/ZZGYSZWQXBXT"
+#  date_start = "2019-10-01"
+#  date_end = "2020-04-01"
+#  description = ""
+#
+#
+#[[item]]
+#  organization = "Coursera"
+#  organization_url = "https://www.coursera.org"
+#  title = "Natural Language Processing in TensorFlow"
+#  url = ""
+#  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/HLLFH84U8B8K"
+#  date_start = "2019-10-01"
+#  date_end = "2020-04-01"
+#  description = ""
+#
+#[[item]]
+#  organization = "Coursera"
+#  organization_url = "https://www.coursera.org"
+#  title = "Sequences, Time Series and Prediction"
+#  url = ""
+#  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/MU7VNNPWZ7T8"
+#  date_start = "2019-10-01"
+#  date_end = "2020-04-01"
+#  description = "" -->
 
 +++
